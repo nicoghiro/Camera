@@ -3,3 +3,13 @@ C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net
 C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.AssemblyInfoInputs.cache
 C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.AssemblyInfo.cs
 C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\bin\Debug\net6.0\Camera.Hotel.exe
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\bin\Debug\net6.0\Camera.Hotel.deps.json
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\bin\Debug\net6.0\Camera.Hotel.runtimeconfig.json
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\bin\Debug\net6.0\Camera.Hotel.dll
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\bin\Debug\net6.0\Camera.Hotel.pdb
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.dll
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\refint\Camera.Hotel.dll
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.pdb
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.genruntimeconfig.cache
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\ref\Camera.Hotel.dll
