@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace Camera.Hotel
 {
@@ -33,7 +34,8 @@ namespace Camera.Hotel
             get { return numero; }
             private set
             {
-                if (value != null && value.Length == 3)
+                Regex rx = new Regex("^[0-9]{3}$");
+                if (value != null && rx.IsMatch(value))
                     numero = value;
                 else
                     throw new Exception("numero camera non valido");

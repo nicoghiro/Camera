@@ -1,4 +1,6 @@
-﻿namespace Camere.Hotel
+﻿using System.Text.RegularExpressions;
+
+namespace Camere.Hotel
 {
     public class Camera
     {
@@ -27,7 +29,8 @@
             get { return numero; }
             private set
             {
-                if (value != null && value.Length == 3)
+                Regex rx = new Regex("^[0-9]{3}$");
+                if (value != null && rx.IsMatch(value))
                     numero = value;
                 else
                     throw new Exception("numero camera non valido");
