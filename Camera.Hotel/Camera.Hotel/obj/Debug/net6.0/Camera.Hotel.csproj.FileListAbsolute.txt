@@ -1,0 +1,5 @@
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.csproj.AssemblyReference.cache
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.AssemblyInfoInputs.cache
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.AssemblyInfo.cs
+C:\Users\nicolas\OneDrive\Desktop\Camera\Camera.Hotel\Camera.Hotel\obj\Debug\net6.0\Camera.Hotel.csproj.CoreCompileInputs.cache

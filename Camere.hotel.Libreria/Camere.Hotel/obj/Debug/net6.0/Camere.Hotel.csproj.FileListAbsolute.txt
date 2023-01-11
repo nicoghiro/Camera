@@ -1,0 +1,12 @@
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\bin\Debug\net6.0\Camere.Hotel.deps.json
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\bin\Debug\net6.0\Camere.Hotel.dll
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\bin\Debug\net6.0\Camere.Hotel.pdb
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\obj\Debug\net6.0\Camere.Hotel.csproj.AssemblyReference.cache
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\obj\Debug\net6.0\Camere.Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\obj\Debug\net6.0\Camere.Hotel.AssemblyInfoInputs.cache
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\obj\Debug\net6.0\Camere.Hotel.AssemblyInfo.cs
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\obj\Debug\net6.0\Camere.Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\obj\Debug\net6.0\Camere.Hotel.dll
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\obj\Debug\net6.0\refint\Camere.Hotel.dll
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\obj\Debug\net6.0\Camere.Hotel.pdb
+C:\Users\Ghirardi.19370\source\repos\Camere.hotel.Libreria\Camere.Hotel\obj\Debug\net6.0\ref\Camere.Hotel.dll
