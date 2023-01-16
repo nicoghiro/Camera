@@ -55,7 +55,8 @@ namespace CassaforteMain
             DataCorrente = DateTime.Now;
             ApertureTentate = 0;
             Bloccata = false;
-            Stato = stato = false;
+            Stato = stato;//=false
+            //l'errore era qui , veniva automaicamente messo false
         }
 
         public Cassaforte() : this(0, null, null, null, false)
