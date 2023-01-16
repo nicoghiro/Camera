@@ -21,4 +21,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="LibreriaLavoro">
+      <HintPath>..\..\..\..\..\Desktop\CassaforteGIUSTA-master\CassaforteGIUSTA-master\LibreriaLavoro.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
