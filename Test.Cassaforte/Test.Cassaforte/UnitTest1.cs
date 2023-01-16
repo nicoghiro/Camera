@@ -4,8 +4,9 @@ namespace CassaforteMain
     public class UnitTest1
         
     {
-    //correggo nel testo per rendere possibile l'apertura 
-  
+    //correggo nel testo per rendere possibile l'apertura ,altrimenti tutti i metodi non funzionano , l'errore era a riga 58 della classe
+    //non riesco a testare il metodo sblocca dato che il codice non viene mai dato 
+    // il codice di sblocco non viene mai dato 
         [Fact]
         public void Test1()
         {
@@ -50,15 +51,15 @@ namespace CassaforteMain
             cassa.Apri("1234");
             cassa.Apri("1234");
             cassa.Apri("1234");
-            cassa.Apri("1234");
             Assert.Throws<Exception>(() => cassa.Apri("1234"));
-            //la cassaforte non si blocca dopo 5 tentatici 
+            
 
         }
         [Fact]
         public void Test6()
         {
             Cassaforte cassa = new Cassaforte(1234, "sorint", "newx gen", "12345", false);
+            cassa.ImpostaCodiceUtente("21");
             Assert.Throws<Exception>(() => cassa.Apri("1234"));
             //non dice in nessun modo che ho sbagliato a inseirire il codice;
 
@@ -72,6 +73,55 @@ namespace CassaforteMain
             Assert.True(cassa.DataProgrammata == data);
 
         }
+        [Fact]
+        public void Test8()
+        {
+            Cassaforte cassa = new Cassaforte(1234, "sorint", "newx gen", "12345", false);
+            cassa.ImpostaCodiceUtente("21");
+            cassa.Apri("21");
+            Assert.True(cassa.Stato == true);
+
+        }
+        [Fact]
+        public void Test9()
+        {
+            Cassaforte cassa = new Cassaforte(1234, "sorint", "newx gen", "12345", false);
+            cassa.ImpostaCodiceUtente("21");
+            cassa.Apri("21");
+            Assert.False(cassa.Stato == false);
+
+        }
+        [Fact]
+        public void Test10()
+        {
+            Cassaforte cassa = new Cassaforte(1234, "sorint", "newx gen", "12345",false);
+            cassa.GeneraCod("12345");
+            Assert.True(cassa.CodiceSblocco == "12345");
+            //come so quale è il nuovo codice?
+
+        }
+        [Fact]
+        public void Test11()
+        {
+            Cassaforte cassa = new Cassaforte(1234, "sorint", "newx gen", "12345", false);
+            DateTime data = DateTime.Now;
+            cassa.ImpostaData(data);
+            Assert.True(cassa.DataProgrammata == data);
+
+        }
+        [Fact]
+        public void Test12()
+        {
+            Cassaforte cassa = new Cassaforte(1234, "sorint", "newx gen", "12345", false);
+            cassa.ImpostaCodiceUtente("21");
+            DateTime data = DateTime.Now;
+            cassa.ImpostaData(data);
+            cassa.AperturaProgrammata("21");
+            Assert.True(cassa.Stato==true);
+           
+
+        }
+
 
     }
 }
